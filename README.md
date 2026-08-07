@@ -1,5 +1,14 @@
 <div align="center">
   <img src="asset/cover.jpg" alt="Cover Banner" width="100%" />
+  
+  <br/>
+  
+  <a href="https://codeforces.com/profile/__panda__">
+    <img src="https://img.shields.io/badge/CODEFORCES-EXPERT-000000?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" />
+  </a>
+  <a href="https://leetcode.com/u/p_a_n_d_a/">
+    <img src="https://img.shields.io/badge/LEETCODE-GUARDIAN-000000?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
+  </a>
 </div>
 
 <br/>
