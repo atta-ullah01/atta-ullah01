@@ -11,7 +11,7 @@
 
 **Hey there! I'm Attaullah**
 
-Math & Computing student at BIT Mesra. I like building backend systems, working close to the metal, and breaking open source codebases I probably shouldn't touch. GSoC '26 contributor with the Linux Foundation, open source contributor to CGAL and the NetBSD kernel, and a competitive programmer who takes Codeforces ratings a bit too seriously.
+Math & Computing student at BIT Mesra. I like building backend systems, working close to the metal, and breaking open source codebases I probably shouldn't touch. GSoC '26 contributor with P4 (Linux Foundation) and a competitive programmer who takes Codeforces ratings a bit too seriously.
 
 <br clear="both"/>
 <hr/>
@@ -42,7 +42,7 @@ Math & Computing student at BIT Mesra. I like building backend systems, working 
   <a href="mailto:mdattaullahansari152@gmail.com">
     <img src="https://img.shields.io/badge/GMAIL-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <a href="#"> <!-- Add your resume link here -->
+  <a href="https://drive.google.com/file/d/1BiDFP5lAs4azcE-wmhGU5DOrCGXWh0Fx/view?usp=sharing">
     <img src="https://img.shields.io/badge/RESUME-000000?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume" />
   </a>
 </div>
