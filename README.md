@@ -1,6 +1,5 @@
 <div align="center">
-  <!-- You can upload a dark manga banner image (like Vagabond) to this repo and name it banner.jpg -->
-  <img src="https://raw.githubusercontent.com/atta-ullah01/atta-ullah01/main/banner.jpg" alt="Banner" width="100%" onerror="this.style.display='none'"/>
+  <img src="asset/cover.jpg" alt="Cover Banner" width="100%" />
 </div>
 
 <br/>
